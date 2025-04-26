@@ -1,5 +1,5 @@
 # Architecture Diagram
 
-![Architecture](assets/ExpenseTrackerBackend.drawio.svg)
+![Architecture](assets/ExpenseTrackerBackend.drawio.png)
 
 [🛠️ Edit this Diagram](assets/ExpenseTrackerBackend.drawio)
