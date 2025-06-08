@@ -6,7 +6,7 @@ This repository serves as the **backend architecture and documentation hub** for
 
 ## 🧠 Architecture Diagram
 
-![Architecture](assets/ExpenseTrackerBackend.drawio.png)
+![Architecture](assets/ExpenseTrackerBackend.drawio.svg)
 
 [🛠️ View/Edit Diagram in Draw.io](assets/ExpenseTrackerBackend.drawio)
 
